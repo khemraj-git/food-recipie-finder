@@ -26,3 +26,20 @@ This project is a simple food recipe finder built using HTML, CSS, and JavaScrip
 4.  **View Results:** The search results will be displayed below the search bar.
 
 ## Project Structure
+* `index.html`: The main HTML file containing the structure of the application.
+* `style.css`: The CSS file containing the styling of the application.
+* `script.js`: The JavaScript file containing the logic of the application.
+* `README.md`: This file, providing information about the project.
+
+
+## Future Enhancements (Optional)
+
+* Add filtering options (e.g., by cuisine, dietary restrictions).
+* Implement recipe rating and review system.
+* Integrate with a recipe API for a larger database.
+* Add user authentication for saving favorite recipes.
+* Create a more visually appealing UI/UX.
+
+## Contributing
+
+Feel free to contribute to this project by submitting pull requests or opening issues.
