@@ -19,7 +19,7 @@ This project is a simple food recipe finder built using HTML, CSS, and JavaScrip
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [repository URL]
+    https://github.com/khemraj-git/food-recipie-finder.git
     ```
 2.  **Open `index.html`:** Open the `index.html` file in your web browser.
 3.  **Search for Recipes:** Enter your desired ingredients or recipe names in the search bar and press Enter or click the search button.
