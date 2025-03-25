@@ -148,7 +148,7 @@ color: var(--input-text-color);
 
 #results {
     text-align: center;
-    display: flex;
+    
     flex-wrap: wrap;
     justify-content: center;
 }
